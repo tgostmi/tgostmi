@@ -1,26 +1,37 @@
+<div align="center">
+    <img alt="count" src="https://count.getloli.com/@tgostmi?name=Gostmi&theme=booru-lewd">
+</div>
 
----
-
-### 🌐 Connect With Me
+<h2 align="center">Hey! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+```sh
+gostmi@profile: ~$ neofetch
+```
 
 </div>
 
+<img align="left" src="https://media1.tenor.com/m/QXwy-wmq1EEAAAAC/anime-um.gif" width="173"/>
+
+```csharp
+Profile
+-------------------------------
+Username: Gostmi
+Location: Russia
+FavAnime: Darling in the Franxx, Dororo, Violet Evergarden
+Waifu: Zero Two ♡
+Hobbies: Anime, Coding
+```
+
+<br clear="left"/>
+
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://komarev.com/ghpvc/?username=Gostmi&style=for-the-badge&color=00d9ff" alt="Profile Views">
-
-**"Code is like humor. When you have to explain it, it's bad."**
+<a href="https://t.me/GostmiT">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">
+</a>
 
 </div>
