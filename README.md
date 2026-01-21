@@ -12,7 +12,7 @@ gostmi@profile: ~$ neofetch
 
 </div>
 
-<img align="left" src="https://media1.tenor.com/m/QXwy-wmq1EEAAAAC/anime-um.gif" width="173"/>
+<img align="left" src="https://media1.tenor.com/m/QXwy-wmq1EEAAAAC/anime-um.gif" width="160"/>
 
 ```csharp
 Profile
